@@ -1,0 +1,16 @@
+.sender input {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f27a;
+    border-color:purple ;
+    width: 20%;
+    border: 1em;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    border-radius: 0.5em;
+    border-color: #b078be;
+    outline-color: #b078be;
+  
+  }
